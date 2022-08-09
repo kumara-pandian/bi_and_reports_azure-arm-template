@@ -2409,7 +2409,7 @@ ej.ReportDesigner.Locale['it-IT'] = {
         },
         dataTab: {
             dataSourceTabHeader: 'FONTE DI DATI',
-            dataSetTabHeader: 'DATASET'
+            dataSetTabHeader: 'SET DI DATI'
         }
     },
     reportViewer: {

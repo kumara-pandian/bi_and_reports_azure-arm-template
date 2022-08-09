@@ -531,6 +531,7 @@
         border: 1px solid $warning-border-normal-color;
         width: 610px;
         height: auto;
+        padding: 10px;
     }
 
     .renew-content {
@@ -540,7 +541,6 @@
         line-height: 24px;
         color: $warning-text-color;
         margin-left: 40px;
-        margin-top: 10px;
     }
 
     #change-subscription {
@@ -550,9 +550,9 @@
 
     .su-warning-alt {
         font-size: 18px;
-        top: 3px;
+        top: 13px;
         position: absolute;
-        margin-left: 13px;
+        margin-left: 8px;
         color: $warning-text-color;
     }
 

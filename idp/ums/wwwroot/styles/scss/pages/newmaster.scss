@@ -182,10 +182,10 @@ select.selectpicker + .btn-group, select.select-picker + .btn-group {
     color: $primary-text-color;
 }
 
-//hided for menu theme, will enable while working theme support for entire apllication
-/*[class^="su-"], [class*=" su-"] {
-   color: $primary-text-color;
-}*/
+// To wrap the text in tool tip
+.tooltip-inner {
+    word-break: break-all;
+}
 
 input::-ms-clear, input::-ms-reveal {
     display: none;
@@ -237,7 +237,7 @@ input::-ms-clear, input::-ms-reveal {
                 font-weight: 400;
             }
 
-            &:hover {
+            &:hover, &:focus {
                 background: $drop-down-menu-bg-hover-color;
             }
         }

@@ -150,9 +150,9 @@ select.selectpicker + .btn-group.open .dropdown-toggle, select.select-picker + .
   background-color: var(--surface);
   color: var(--primary-text-color); }
 
-/*[class^="su-"], [class*=" su-"] {
-   color: $primary-text-color;
-}*/
+.tooltip-inner {
+  word-break: break-all; }
+
 input::-ms-clear, input::-ms-reveal {
   display: none; }
 
@@ -188,7 +188,7 @@ input::-ms-clear, input::-ms-reveal {
       .dropdown-menu li > a span, .dropdown-menu li > span span {
         font-size: 12px;
         font-weight: 400; }
-      .dropdown-menu li > a:hover, .dropdown-menu li > span:hover {
+      .dropdown-menu li > a:hover, .dropdown-menu li > a:focus, .dropdown-menu li > span:hover, .dropdown-menu li > span:focus {
         background: var(--drop-down-menu-bg-hover-color); }
     .dropdown-menu li.divider {
       cursor: default;

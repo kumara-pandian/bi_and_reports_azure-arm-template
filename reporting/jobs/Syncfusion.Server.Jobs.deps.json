@@ -33,32 +33,32 @@
   },
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "Syncfusion.Server.Jobs/4.2.51": {
+      "Syncfusion.Server.Jobs/4.2.52": {
         "dependencies": {
-          "Bold.Licensing": "4.2.51",
-          "BoldReports.CRI.Barcode": "4.2.51",
-          "BoldReports.CRI.PredictiveAnalytics": "4.2.51",
-          "BoldReports.Data.Csv": "4.2.51",
-          "BoldReports.Data.ElasticSearch": "4.2.51",
-          "BoldReports.Data.Excel": "4.2.51",
-          "BoldReports.Data.SSAS": "4.2.51",
-          "BoldReports.Data.WebData": "4.2.51",
-          "BoldReports.Net.Core": "4.2.51",
+          "Bold.Licensing": "4.2.52",
+          "BoldReports.CRI.Barcode": "4.2.52",
+          "BoldReports.CRI.PredictiveAnalytics": "4.2.52",
+          "BoldReports.Data.Csv": "4.2.52",
+          "BoldReports.Data.ElasticSearch": "4.2.52",
+          "BoldReports.Data.Excel": "4.2.52",
+          "BoldReports.Data.SSAS": "4.2.52",
+          "BoldReports.Data.WebData": "4.2.52",
+          "BoldReports.Net.Core": "4.2.52",
           "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": "3.1.4",
           "Microsoft.CodeAnalysis.Common": "3.8.0",
           "Microsoft.CodeAnalysis.FxCopAnalyzers": "2.9.8",
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.9.10",
-          "Syncfusion.Server.Base": "4.2.51",
-          "Syncfusion.Server.Base.ActiveDirectory": "4.2.51",
-          "Syncfusion.Server.Base.Data": "4.2.51",
-          "Syncfusion.Server.Base.DataClasses": "4.2.51",
-          "Syncfusion.Server.Base.Encryption": "4.2.51",
-          "Syncfusion.Server.Base.Item": "4.2.51",
-          "Syncfusion.Server.Base.Logger": "4.2.51",
-          "Syncfusion.Server.Base.MarkdownSharp": "4.2.51",
-          "Syncfusion.Server.Base.Resources.Storage": "4.2.51",
-          "Syncfusion.Server.Base.Scheduler": "4.2.51",
-          "Syncfusion.Server.Base.TemplateGenerator": "4.2.51",
+          "Syncfusion.Server.Base": "4.2.52",
+          "Syncfusion.Server.Base.ActiveDirectory": "4.2.52",
+          "Syncfusion.Server.Base.Data": "4.2.52",
+          "Syncfusion.Server.Base.DataClasses": "4.2.52",
+          "Syncfusion.Server.Base.Encryption": "4.2.52",
+          "Syncfusion.Server.Base.Item": "4.2.52",
+          "Syncfusion.Server.Base.Logger": "4.2.52",
+          "Syncfusion.Server.Base.MarkdownSharp": "4.2.52",
+          "Syncfusion.Server.Base.Resources.Storage": "4.2.52",
+          "Syncfusion.Server.Base.Scheduler": "4.2.52",
+          "Syncfusion.Server.Base.TemplateGenerator": "4.2.52",
           "Microsoft.AspNetCore.Antiforgery.Reference": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions.Reference": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "5.0.0.0",
@@ -451,133 +451,133 @@
           "lib/netstandard2.0/BarcodeStandard.dll": {}
         }
       },
-      "Bold.Data.Analytics.Base/4.2.51": {
+      "Bold.Data.Analytics.Base/4.2.52": {
         "runtime": {
           "lib/net5.0/Bold.Data.Analytics.Base.dll": {
-            "assemblyVersion": "4.2500.51.0",
-            "fileVersion": "4.2500.51.0"
+            "assemblyVersion": "4.2500.52.0",
+            "fileVersion": "4.2500.52.0"
           }
         },
         "compile": {
           "lib/net5.0/Bold.Data.Analytics.Base.dll": {}
         }
       },
-      "Bold.Licensing/4.2.51": {
+      "Bold.Licensing/4.2.52": {
         "dependencies": {
           "Newtonsoft.Json": "12.0.3"
         },
         "runtime": {
           "lib/netcoreapp3.0/Bold.Licensing.dll": {
-            "assemblyVersion": "4.2.51.0",
-            "fileVersion": "4.2.51.0"
+            "assemblyVersion": "4.2.52.0",
+            "fileVersion": "4.2.52.0"
           }
         },
         "compile": {
           "lib/netcoreapp3.0/Bold.Licensing.dll": {}
         }
       },
-      "BoldReports.CRI.Barcode/4.2.51": {
+      "BoldReports.CRI.Barcode/4.2.52": {
         "dependencies": {
           "BarcodeLib": "2.2.6",
           "Syncfusion.Pdf.Imaging.Net.Core": "20.2.0.36"
         },
         "runtime": {
           "lib/net5.0/BoldReports.CRI.Barcode.dll": {
-            "assemblyVersion": "4.2500.51.0",
-            "fileVersion": "4.2500.51.0"
+            "assemblyVersion": "4.2500.52.0",
+            "fileVersion": "4.2500.52.0"
           }
         },
         "compile": {
           "lib/net5.0/BoldReports.CRI.Barcode.dll": {}
         }
       },
-      "BoldReports.CRI.PredictiveAnalytics/4.2.51": {
+      "BoldReports.CRI.PredictiveAnalytics/4.2.52": {
         "dependencies": {
-          "Bold.Data.Analytics.Base": "4.2.51"
+          "Bold.Data.Analytics.Base": "4.2.52"
         },
         "runtime": {
           "lib/net5.0/BoldReports.CRI.PredictiveAnalytics.dll": {
-            "assemblyVersion": "4.2500.51.0",
-            "fileVersion": "4.2500.51.0"
+            "assemblyVersion": "4.2500.52.0",
+            "fileVersion": "4.2500.52.0"
           }
         },
         "compile": {
           "lib/net5.0/BoldReports.CRI.PredictiveAnalytics.dll": {}
         }
       },
-      "BoldReports.Data.Csv/4.2.51": {
+      "BoldReports.Data.Csv/4.2.52": {
         "dependencies": {
           "Newtonsoft.Json": "12.0.3"
         },
         "runtime": {
           "lib/net5.0/BoldReports.Data.Csv.dll": {
-            "assemblyVersion": "4.2500.51.0",
-            "fileVersion": "4.2500.51.0"
+            "assemblyVersion": "4.2500.52.0",
+            "fileVersion": "4.2500.52.0"
           }
         },
         "compile": {
           "lib/net5.0/BoldReports.Data.Csv.dll": {}
         }
       },
-      "BoldReports.Data.ElasticSearch/4.2.51": {
+      "BoldReports.Data.ElasticSearch/4.2.52": {
         "dependencies": {
           "Newtonsoft.Json": "12.0.3"
         },
         "runtime": {
           "lib/net5.0/BoldReports.Data.ElasticSearch.dll": {
-            "assemblyVersion": "4.2500.51.0",
-            "fileVersion": "4.2500.51.0"
+            "assemblyVersion": "4.2500.52.0",
+            "fileVersion": "4.2500.52.0"
           }
         },
         "compile": {
           "lib/net5.0/BoldReports.Data.ElasticSearch.dll": {}
         }
       },
-      "BoldReports.Data.Excel/4.2.51": {
+      "BoldReports.Data.Excel/4.2.52": {
         "dependencies": {
           "Newtonsoft.Json": "12.0.3"
         },
         "runtime": {
           "lib/net5.0/BoldReports.Data.Excel.dll": {
-            "assemblyVersion": "4.2500.51.0",
-            "fileVersion": "4.2500.51.0"
+            "assemblyVersion": "4.2500.52.0",
+            "fileVersion": "4.2500.52.0"
           }
         },
         "compile": {
           "lib/net5.0/BoldReports.Data.Excel.dll": {}
         }
       },
-      "BoldReports.Data.SSAS/4.2.51": {
+      "BoldReports.Data.SSAS/4.2.52": {
         "dependencies": {
           "Microsoft.AnalysisServices.AdomdClient.NetCore.retail.amd64": "19.22.0.1"
         },
         "runtime": {
           "lib/net5.0/BoldReports.Data.SSAS.dll": {
-            "assemblyVersion": "4.2500.51.0",
-            "fileVersion": "4.2500.51.0"
+            "assemblyVersion": "4.2500.52.0",
+            "fileVersion": "4.2500.52.0"
           }
         },
         "compile": {
           "lib/net5.0/BoldReports.Data.SSAS.dll": {}
         }
       },
-      "BoldReports.Data.WebData/4.2.51": {
+      "BoldReports.Data.WebData/4.2.52": {
         "dependencies": {
           "Newtonsoft.Json": "12.0.3"
         },
         "runtime": {
           "lib/net5.0/BoldReports.Data.WebData.dll": {
-            "assemblyVersion": "4.2500.51.0",
-            "fileVersion": "4.2500.51.0"
+            "assemblyVersion": "4.2500.52.0",
+            "fileVersion": "4.2500.52.0"
           }
         },
         "compile": {
           "lib/net5.0/BoldReports.Data.WebData.dll": {}
         }
       },
-      "BoldReports.Net.Core/4.2.51": {
+      "BoldReports.Net.Core/4.2.52": {
         "dependencies": {
-          "Bold.Licensing": "4.2.51",
+          "Bold.Licensing": "4.2.52",
           "Microsoft.CodeAnalysis.VisualBasic": "3.3.0",
           "Microsoft.Windows.Compatibility": "3.1.0",
           "Newtonsoft.Json": "12.0.3",
@@ -597,8 +597,8 @@
         },
         "runtime": {
           "lib/net5.0/BoldReports.Web.dll": {
-            "assemblyVersion": "4.2500.51.0",
-            "fileVersion": "4.2500.51.0"
+            "assemblyVersion": "4.2500.52.0",
+            "fileVersion": "4.2500.52.0"
           }
         },
         "compile": {
@@ -2868,12 +2868,12 @@
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
       },
-      "Syncfusion.EmailSender.Base/4.2.51": {
+      "Syncfusion.EmailSender.Base/4.2.52": {
         "dependencies": {
           "AWSSDK.SimpleEmail": "3.5.0.34",
           "Microsoft.CodeAnalysis.FxCopAnalyzers": "2.9.8",
-          "Syncfusion.Server.Base.DataClasses": "4.2.51",
-          "Syncfusion.Server.Base.Logger": "4.2.51"
+          "Syncfusion.Server.Base.DataClasses": "4.2.52",
+          "Syncfusion.Server.Base.Logger": "4.2.52"
         },
         "runtime": {
           "Syncfusion.EmailSender.Base.dll": {}
@@ -2882,19 +2882,19 @@
           "Syncfusion.EmailSender.Base.dll": {}
         }
       },
-      "Syncfusion.Server.Base/4.2.51": {
+      "Syncfusion.Server.Base/4.2.52": {
         "dependencies": {
           "AWSSDK.CognitoIdentityProvider": "3.3.108.7",
           "AWSSDK.Core": "3.5.1.32",
-          "Bold.Licensing": "4.2.51",
-          "BoldReports.CRI.Barcode": "4.2.51",
-          "BoldReports.CRI.PredictiveAnalytics": "4.2.51",
-          "BoldReports.Data.Csv": "4.2.51",
-          "BoldReports.Data.ElasticSearch": "4.2.51",
-          "BoldReports.Data.Excel": "4.2.51",
-          "BoldReports.Data.SSAS": "4.2.51",
-          "BoldReports.Data.WebData": "4.2.51",
-          "BoldReports.Net.Core": "4.2.51",
+          "Bold.Licensing": "4.2.52",
+          "BoldReports.CRI.Barcode": "4.2.52",
+          "BoldReports.CRI.PredictiveAnalytics": "4.2.52",
+          "BoldReports.Data.Csv": "4.2.52",
+          "BoldReports.Data.ElasticSearch": "4.2.52",
+          "BoldReports.Data.Excel": "4.2.52",
+          "BoldReports.Data.SSAS": "4.2.52",
+          "BoldReports.Data.WebData": "4.2.52",
+          "BoldReports.Net.Core": "4.2.52",
           "Microsoft.AspNetCore.Localization": "2.2.0",
           "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0",
           "Microsoft.CodeAnalysis.CSharp": "3.8.0",
@@ -2903,17 +2903,17 @@
           "Microsoft.Extensions.Configuration.Abstractions": "3.1.6",
           "Newtonsoft.Json": "12.0.3",
           "RazorEngine.NetCore": "3.1.0",
-          "Syncfusion.EmailSender.Base": "4.2.51",
-          "Syncfusion.Server.Base.ActiveDirectory": "4.2.51",
-          "Syncfusion.Server.Base.Data": "4.2.51",
-          "Syncfusion.Server.Base.DataClasses": "4.2.51",
-          "Syncfusion.Server.Base.Encryption": "4.2.51",
-          "Syncfusion.Server.Base.IdPDirectory": "4.2.51",
-          "Syncfusion.Server.Base.IntranetService": "4.2.51",
-          "Syncfusion.Server.Base.Logger": "4.2.51",
-          "Syncfusion.Server.Base.MarkdownSharp": "4.2.51",
-          "Syncfusion.Server.Base.Resources.Storage": "4.2.51",
-          "Syncfusion.Server.Base.TemplateGenerator": "4.2.51",
+          "Syncfusion.EmailSender.Base": "4.2.52",
+          "Syncfusion.Server.Base.ActiveDirectory": "4.2.52",
+          "Syncfusion.Server.Base.Data": "4.2.52",
+          "Syncfusion.Server.Base.DataClasses": "4.2.52",
+          "Syncfusion.Server.Base.Encryption": "4.2.52",
+          "Syncfusion.Server.Base.IdPDirectory": "4.2.52",
+          "Syncfusion.Server.Base.IntranetService": "4.2.52",
+          "Syncfusion.Server.Base.Logger": "4.2.52",
+          "Syncfusion.Server.Base.MarkdownSharp": "4.2.52",
+          "Syncfusion.Server.Base.Resources.Storage": "4.2.52",
+          "Syncfusion.Server.Base.TemplateGenerator": "4.2.52",
           "System.CodeDom": "5.0.0",
           "System.Configuration.ConfigurationManager": "4.7.0",
           "System.Drawing.Common": "5.0.0",
@@ -2928,11 +2928,11 @@
           "Syncfusion.Server.Base.dll": {}
         }
       },
-      "Syncfusion.Server.Base.ActiveDirectory/4.2.51": {
+      "Syncfusion.Server.Base.ActiveDirectory/4.2.52": {
         "dependencies": {
           "Microsoft.CodeAnalysis.FxCopAnalyzers": "2.9.8",
           "Microsoft.IdentityModel.Clients.ActiveDirectory": "5.2.7",
-          "Syncfusion.Server.Base.Logger": "4.2.51",
+          "Syncfusion.Server.Base.Logger": "4.2.52",
           "System.DirectoryServices.Protocols": "4.7.0",
           "log4net": "2.0.12"
         },
@@ -2943,17 +2943,17 @@
           "Syncfusion.Server.Base.ActiveDirectory.dll": {}
         }
       },
-      "Syncfusion.Server.Base.Data/4.2.51": {
+      "Syncfusion.Server.Base.Data/4.2.52": {
         "dependencies": {
           "Microsoft.CodeAnalysis.FxCopAnalyzers": "2.9.8",
           "Microsoft.Win32.Registry": "4.7.0",
           "MySqlConnector": "1.2.1",
           "Npgsql": "4.1.4",
-          "Syncfusion.Server.Base.ActiveDirectory": "4.2.51",
-          "Syncfusion.Server.Base.DataClasses": "4.2.51",
-          "Syncfusion.Server.Base.Encryption": "4.2.51",
-          "Syncfusion.Server.Base.Logger": "4.2.51",
-          "Syncfusion.Server.Base.MarkdownSharp": "4.2.51",
+          "Syncfusion.Server.Base.ActiveDirectory": "4.2.52",
+          "Syncfusion.Server.Base.DataClasses": "4.2.52",
+          "Syncfusion.Server.Base.Encryption": "4.2.52",
+          "Syncfusion.Server.Base.Logger": "4.2.52",
+          "Syncfusion.Server.Base.MarkdownSharp": "4.2.52",
           "System.Data.Odbc": "4.7.0",
           "System.Data.OleDb": "4.7.0",
           "System.Data.SqlClient": "4.8.1"
@@ -2965,13 +2965,13 @@
           "Syncfusion.Server.Base.Data.dll": {}
         }
       },
-      "Syncfusion.Server.Base.DataClasses/4.2.51": {
+      "Syncfusion.Server.Base.DataClasses/4.2.52": {
         "dependencies": {
           "Microsoft.CodeAnalysis.FxCopAnalyzers": "2.9.8",
           "Microsoft.Extensions.Configuration.Abstractions": "3.1.6",
           "Newtonsoft.Json": "12.0.3",
-          "Syncfusion.Server.Base.Encryption": "4.2.51",
-          "Syncfusion.Server.Base.MarkdownSharp": "4.2.51",
+          "Syncfusion.Server.Base.Encryption": "4.2.52",
+          "Syncfusion.Server.Base.MarkdownSharp": "4.2.52",
           "System.Configuration.ConfigurationManager": "4.7.0"
         },
         "runtime": {
@@ -2981,7 +2981,7 @@
           "Syncfusion.Server.Base.DataClasses.dll": {}
         }
       },
-      "Syncfusion.Server.Base.Encryption/4.2.51": {
+      "Syncfusion.Server.Base.Encryption/4.2.52": {
         "dependencies": {
           "Microsoft.CodeAnalysis.FxCopAnalyzers": "2.9.8"
         },
@@ -2992,15 +2992,15 @@
           "Syncfusion.Server.Base.Encryption.dll": {}
         }
       },
-      "Syncfusion.Server.Base.IdPDirectory/4.2.51": {
+      "Syncfusion.Server.Base.IdPDirectory/4.2.52": {
         "dependencies": {
           "Microsoft.CodeAnalysis.FxCopAnalyzers": "2.9.8",
           "Newtonsoft.Json": "12.0.3",
-          "Syncfusion.Server.Base.ActiveDirectory": "4.2.51",
-          "Syncfusion.Server.Base.DataClasses": "4.2.51",
-          "Syncfusion.Server.Base.Encryption": "4.2.51",
-          "Syncfusion.Server.Base.Logger": "4.2.51",
-          "Syncfusion.Server.Base.MarkdownSharp": "4.2.51"
+          "Syncfusion.Server.Base.ActiveDirectory": "4.2.52",
+          "Syncfusion.Server.Base.DataClasses": "4.2.52",
+          "Syncfusion.Server.Base.Encryption": "4.2.52",
+          "Syncfusion.Server.Base.Logger": "4.2.52",
+          "Syncfusion.Server.Base.MarkdownSharp": "4.2.52"
         },
         "runtime": {
           "Syncfusion.Server.Base.IdPDirectory.dll": {}
@@ -3009,11 +3009,11 @@
           "Syncfusion.Server.Base.IdPDirectory.dll": {}
         }
       },
-      "Syncfusion.Server.Base.IntranetService/4.2.51": {
+      "Syncfusion.Server.Base.IntranetService/4.2.52": {
         "dependencies": {
-          "Syncfusion.EmailSender.Base": "4.2.51",
-          "Syncfusion.Server.Base.DataClasses": "4.2.51",
-          "Syncfusion.Server.Base.Logger": "4.2.51"
+          "Syncfusion.EmailSender.Base": "4.2.52",
+          "Syncfusion.Server.Base.DataClasses": "4.2.52",
+          "Syncfusion.Server.Base.Logger": "4.2.52"
         },
         "runtime": {
           "Syncfusion.Server.Base.IntranetService.dll": {}
@@ -3022,15 +3022,15 @@
           "Syncfusion.Server.Base.IntranetService.dll": {}
         }
       },
-      "Syncfusion.Server.Base.Item/4.2.51": {
+      "Syncfusion.Server.Base.Item/4.2.52": {
         "dependencies": {
           "Microsoft.CodeAnalysis.CSharp": "3.8.0",
           "Microsoft.CodeAnalysis.Common": "3.8.0",
           "Microsoft.CodeAnalysis.FxCopAnalyzers": "2.9.8",
-          "Syncfusion.Server.Base": "4.2.51",
-          "Syncfusion.Server.Base.Data": "4.2.51",
-          "Syncfusion.Server.Base.DataClasses": "4.2.51",
-          "Syncfusion.Server.Base.Resources.Storage": "4.2.51",
+          "Syncfusion.Server.Base": "4.2.52",
+          "Syncfusion.Server.Base.Data": "4.2.52",
+          "Syncfusion.Server.Base.DataClasses": "4.2.52",
+          "Syncfusion.Server.Base.Resources.Storage": "4.2.52",
           "TimeZoneConverter": "3.3.0"
         },
         "runtime": {
@@ -3040,7 +3040,7 @@
           "Syncfusion.Server.Base.Item.dll": {}
         }
       },
-      "Syncfusion.Server.Base.Logger/4.2.51": {
+      "Syncfusion.Server.Base.Logger/4.2.52": {
         "dependencies": {
           "Exceptionless.Log4net": "4.5.0",
           "Microsoft.CodeAnalysis.FxCopAnalyzers": "2.9.8",
@@ -3054,7 +3054,7 @@
           "Syncfusion.Server.Base.Logger.dll": {}
         }
       },
-      "Syncfusion.Server.Base.MarkdownSharp/4.2.51": {
+      "Syncfusion.Server.Base.MarkdownSharp/4.2.52": {
         "dependencies": {
           "Microsoft.CodeAnalysis.FxCopAnalyzers": "2.9.8",
           "Microsoft.Extensions.Configuration.Abstractions": "3.1.6",
@@ -3067,15 +3067,15 @@
           "Syncfusion.Server.Base.MarkdownSharp.dll": {}
         }
       },
-      "Syncfusion.Server.Base.Resources.Storage/4.2.51": {
+      "Syncfusion.Server.Base.Resources.Storage/4.2.52": {
         "dependencies": {
           "Azure.Storage.Blobs": "12.4.4",
           "Microsoft.CodeAnalysis.FxCopAnalyzers": "2.9.8",
-          "Syncfusion.Server.Base.ActiveDirectory": "4.2.51",
-          "Syncfusion.Server.Base.DataClasses": "4.2.51",
-          "Syncfusion.Server.Base.Encryption": "4.2.51",
-          "Syncfusion.Server.Base.Logger": "4.2.51",
-          "Syncfusion.Server.Base.MarkdownSharp": "4.2.51",
+          "Syncfusion.Server.Base.ActiveDirectory": "4.2.52",
+          "Syncfusion.Server.Base.DataClasses": "4.2.52",
+          "Syncfusion.Server.Base.Encryption": "4.2.52",
+          "Syncfusion.Server.Base.Logger": "4.2.52",
+          "Syncfusion.Server.Base.MarkdownSharp": "4.2.52",
           "WindowsAzure.Storage": "9.3.3",
           "log4net": "2.0.12"
         },
@@ -3086,31 +3086,31 @@
           "Syncfusion.Server.Base.Resources.Storage.dll": {}
         }
       },
-      "Syncfusion.Server.Base.Scheduler/4.2.51": {
+      "Syncfusion.Server.Base.Scheduler/4.2.52": {
         "dependencies": {
-          "Bold.Licensing": "4.2.51",
-          "BoldReports.CRI.Barcode": "4.2.51",
-          "BoldReports.CRI.PredictiveAnalytics": "4.2.51",
-          "BoldReports.Data.Csv": "4.2.51",
-          "BoldReports.Data.ElasticSearch": "4.2.51",
-          "BoldReports.Data.Excel": "4.2.51",
-          "BoldReports.Data.SSAS": "4.2.51",
-          "BoldReports.Data.WebData": "4.2.51",
-          "BoldReports.Net.Core": "4.2.51",
+          "Bold.Licensing": "4.2.52",
+          "BoldReports.CRI.Barcode": "4.2.52",
+          "BoldReports.CRI.PredictiveAnalytics": "4.2.52",
+          "BoldReports.Data.Csv": "4.2.52",
+          "BoldReports.Data.ElasticSearch": "4.2.52",
+          "BoldReports.Data.Excel": "4.2.52",
+          "BoldReports.Data.SSAS": "4.2.52",
+          "BoldReports.Data.WebData": "4.2.52",
+          "BoldReports.Net.Core": "4.2.52",
           "DotNetZip": "1.15.0",
           "Microsoft.CodeAnalysis.Common": "3.8.0",
           "Microsoft.CodeAnalysis.FxCopAnalyzers": "2.9.8",
-          "Syncfusion.Server.Base": "4.2.51",
-          "Syncfusion.Server.Base.ActiveDirectory": "4.2.51",
-          "Syncfusion.Server.Base.Data": "4.2.51",
-          "Syncfusion.Server.Base.DataClasses": "4.2.51",
-          "Syncfusion.Server.Base.Encryption": "4.2.51",
-          "Syncfusion.Server.Base.IdPDirectory": "4.2.51",
-          "Syncfusion.Server.Base.Item": "4.2.51",
-          "Syncfusion.Server.Base.Logger": "4.2.51",
-          "Syncfusion.Server.Base.MarkdownSharp": "4.2.51",
-          "Syncfusion.Server.Base.Resources.Storage": "4.2.51",
-          "Syncfusion.Server.Base.TemplateGenerator": "4.2.51",
+          "Syncfusion.Server.Base": "4.2.52",
+          "Syncfusion.Server.Base.ActiveDirectory": "4.2.52",
+          "Syncfusion.Server.Base.Data": "4.2.52",
+          "Syncfusion.Server.Base.DataClasses": "4.2.52",
+          "Syncfusion.Server.Base.Encryption": "4.2.52",
+          "Syncfusion.Server.Base.IdPDirectory": "4.2.52",
+          "Syncfusion.Server.Base.Item": "4.2.52",
+          "Syncfusion.Server.Base.Logger": "4.2.52",
+          "Syncfusion.Server.Base.MarkdownSharp": "4.2.52",
+          "Syncfusion.Server.Base.Resources.Storage": "4.2.52",
+          "Syncfusion.Server.Base.TemplateGenerator": "4.2.52",
           "System.ServiceModel.Primitives": "4.7.0"
         },
         "runtime": {
@@ -3120,10 +3120,10 @@
           "Syncfusion.Server.Base.Scheduler.dll": {}
         }
       },
-      "Syncfusion.Server.Base.TemplateGenerator/4.2.51": {
+      "Syncfusion.Server.Base.TemplateGenerator/4.2.52": {
         "dependencies": {
           "Microsoft.CodeAnalysis.FxCopAnalyzers": "2.9.8",
-          "Syncfusion.Server.Base.DataClasses": "4.2.51"
+          "Syncfusion.Server.Base.DataClasses": "4.2.52"
         },
         "runtime": {
           "Syncfusion.Server.Base.TemplateGenerator.dll": {}
@@ -4833,7 +4833,7 @@
     }
   },
   "libraries": {
-    "Syncfusion.Server.Jobs/4.2.51": {
+    "Syncfusion.Server.Jobs/4.2.52": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -4887,75 +4887,75 @@
       "path": "barcodelib/2.2.6",
       "hashPath": "barcodelib.2.2.6.nupkg.sha512"
     },
-    "Bold.Data.Analytics.Base/4.2.51": {
+    "Bold.Data.Analytics.Base/4.2.52": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-dP60QJZZRcfJkilRZcTvfrdgt61d8/39fbNPYTLXFxjsh7RSRsUcY+muBzcG5rrbOyaAzZSuvXYKXvdPv2U3cQ==",
-      "path": "bold.data.analytics.base/4.2.51",
-      "hashPath": "bold.data.analytics.base.4.2.51.nupkg.sha512"
+      "sha512": "sha512-WqIdfotaGAgjTOOpDFcup08nW7ylaO+BUUsCV6hm9Y0U3LsTO1hQvCgdI5Ov8ln4rRv4KiLVgSGcdqFh6pEYkQ==",
+      "path": "bold.data.analytics.base/4.2.52",
+      "hashPath": "bold.data.analytics.base.4.2.52.nupkg.sha512"
     },
-    "Bold.Licensing/4.2.51": {
+    "Bold.Licensing/4.2.52": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-E5PGA9Pa+18WVATy/0CvgC8/wa2ireO0b0HOoFYxL4XIK4Yl3HmcOhd+8CYmtQHHtUrL0J+3+temE28dDTq/QA==",
-      "path": "bold.licensing/4.2.51",
-      "hashPath": "bold.licensing.4.2.51.nupkg.sha512"
+      "sha512": "sha512-vlgJKzywd76OQpbTGpnmO3FvR6O7ZcYzquKEGDdBZ4H/5sppUdVuQ7QiCgyxgFMxV+WB5XNpIxmHOFxufdP+dg==",
+      "path": "bold.licensing/4.2.52",
+      "hashPath": "bold.licensing.4.2.52.nupkg.sha512"
     },
-    "BoldReports.CRI.Barcode/4.2.51": {
+    "BoldReports.CRI.Barcode/4.2.52": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-NjU2S2BC4lLWSbS0w6DWBWo+UB1sPG6jXMxz2Kq+rO4GhA+ov59CL/IJaSVWtXinCdpS9ba/EkkSzzcAM/hL2g==",
-      "path": "boldreports.cri.barcode/4.2.51",
-      "hashPath": "boldreports.cri.barcode.4.2.51.nupkg.sha512"
+      "sha512": "sha512-+N+fJWLjNVtfacB7LJt0hCxQsv55VBS/micOdTSUNyMmdsHHnSyJ17ZUFURZ6sfU5C149xhE+4NtLZTI/UXm5w==",
+      "path": "boldreports.cri.barcode/4.2.52",
+      "hashPath": "boldreports.cri.barcode.4.2.52.nupkg.sha512"
     },
-    "BoldReports.CRI.PredictiveAnalytics/4.2.51": {
+    "BoldReports.CRI.PredictiveAnalytics/4.2.52": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-684XV35mbY76t273v9StISllKkFUApO3NrIWXVTFUyXz8dVGNyIkB9llajGn1D5cPT9uW2H/3fQZd0R57zaftg==",
-      "path": "boldreports.cri.predictiveanalytics/4.2.51",
-      "hashPath": "boldreports.cri.predictiveanalytics.4.2.51.nupkg.sha512"
+      "sha512": "sha512-PyGO0vH0ucUIIsQuUHbLb1RY+I514Lts7E8x6FnnAhFmRENsOfwE+kUegb4QdZbiSuaB5cXRQqmS/HRSqorJaQ==",
+      "path": "boldreports.cri.predictiveanalytics/4.2.52",
+      "hashPath": "boldreports.cri.predictiveanalytics.4.2.52.nupkg.sha512"
     },
-    "BoldReports.Data.Csv/4.2.51": {
+    "BoldReports.Data.Csv/4.2.52": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-2wLZVTBQ7933qZ6D8t88UNSzQG8TJrThcR3+MR0YoHFS+dtUIUzYPYWuJ1gVQszgZZdwNIizWIVZUgvG0bSE9Q==",
-      "path": "boldreports.data.csv/4.2.51",
-      "hashPath": "boldreports.data.csv.4.2.51.nupkg.sha512"
+      "sha512": "sha512-rH36Stgdz5F2lnw4cE4YDkXrsUo55Sv5DTcwOnlGfn2nmYAUwhkPfQ4mhITeg3BfQlRFanI2nmWk4OrQkOeB4A==",
+      "path": "boldreports.data.csv/4.2.52",
+      "hashPath": "boldreports.data.csv.4.2.52.nupkg.sha512"
     },
-    "BoldReports.Data.ElasticSearch/4.2.51": {
+    "BoldReports.Data.ElasticSearch/4.2.52": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-GwUc8xSa3Cl5NV4XZSPsZ0QW5mDN/QUd07AoS+19gnSvdFC0cj56wc9XinC5YxUPK9jIe+8ZFUzy8sfFaKi0VA==",
-      "path": "boldreports.data.elasticsearch/4.2.51",
-      "hashPath": "boldreports.data.elasticsearch.4.2.51.nupkg.sha512"
+      "sha512": "sha512-QSYaE9y9+XK/jW1pvfCCp+zPxth0vouttFU3qkFarN8r/HeaB1NkCZw7QVmVVKz+Fw9B6YSehd8hQ8psvhZW8g==",
+      "path": "boldreports.data.elasticsearch/4.2.52",
+      "hashPath": "boldreports.data.elasticsearch.4.2.52.nupkg.sha512"
     },
-    "BoldReports.Data.Excel/4.2.51": {
+    "BoldReports.Data.Excel/4.2.52": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-irUUdgRoumxueSQxBb+gsTYX5JtJA5Ve2Gh2T0l/Oq302cAvTpURFXOG319mdKGlEQwD0usccGmrUBhTEMNVbg==",
-      "path": "boldreports.data.excel/4.2.51",
-      "hashPath": "boldreports.data.excel.4.2.51.nupkg.sha512"
+      "sha512": "sha512-ZY0v03tTMoFYnavgLCKFFceOoSuM0TTNFtT8rgHgad8Ir/VbMPF09w+2Q3nXKdTt/u0WYjuYGHWJc2hClz1dIw==",
+      "path": "boldreports.data.excel/4.2.52",
+      "hashPath": "boldreports.data.excel.4.2.52.nupkg.sha512"
     },
-    "BoldReports.Data.SSAS/4.2.51": {
+    "BoldReports.Data.SSAS/4.2.52": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ONgehSiTIVZan9zsjGsFCWhi8EQVgPtHtp0Bj0bkdSuNkKxeJa799DSEZZ5Je4/eA9jN441bb7tbxAibLdHGrQ==",
-      "path": "boldreports.data.ssas/4.2.51",
-      "hashPath": "boldreports.data.ssas.4.2.51.nupkg.sha512"
+      "sha512": "sha512-hNnRgdLp6b5DpikZDnC7yxhbYTMhD9C9Ib4VcfRAu77V4PzHJojd98J62OVm4UZQJAn+8BxWgiHdZ7iGa4b8XA==",
+      "path": "boldreports.data.ssas/4.2.52",
+      "hashPath": "boldreports.data.ssas.4.2.52.nupkg.sha512"
     },
-    "BoldReports.Data.WebData/4.2.51": {
+    "BoldReports.Data.WebData/4.2.52": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ScIWBxwlLrfTVx4WPiS+85j16a1XDULGH4ZuajtR2uu6m6q2PgcIREBWkGrNOhthioR8UoY0y4fmS37/ijlC7g==",
-      "path": "boldreports.data.webdata/4.2.51",
-      "hashPath": "boldreports.data.webdata.4.2.51.nupkg.sha512"
+      "sha512": "sha512-j98JBZuXKziYVEKADSHxNW2IAia9d4ONExzcU1xsUr0uXbqL7AKagQ7Xv1AR9jFEhaBTTTU/Z36d+klTrHdeNQ==",
+      "path": "boldreports.data.webdata/4.2.52",
+      "hashPath": "boldreports.data.webdata.4.2.52.nupkg.sha512"
     },
-    "BoldReports.Net.Core/4.2.51": {
+    "BoldReports.Net.Core/4.2.52": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-q69lsGHSv00UHwmUR9zWx+a0kmx2TsYJqd5e5aAT6calfRqNinjUdzMiz3BjQr9NCQn6jcA50F+NCsT3lOGbJA==",
-      "path": "boldreports.net.core/4.2.51",
-      "hashPath": "boldreports.net.core.4.2.51.nupkg.sha512"
+      "sha512": "sha512-u79m+UJd9NxE5oMGANMAQME53BZ303XwnO4x+8KgKO8145mZS/ihF4iYJZbgCzOvDFSe48itjnDhXUcDnDrAVQ==",
+      "path": "boldreports.net.core/4.2.52",
+      "hashPath": "boldreports.net.core.4.2.52.nupkg.sha512"
     },
     "DotNetZip/1.15.0": {
       "type": "package",
@@ -6525,72 +6525,72 @@
       "path": "windowsazure.storage/9.3.3",
       "hashPath": "windowsazure.storage.9.3.3.nupkg.sha512"
     },
-    "Syncfusion.EmailSender.Base/4.2.51": {
+    "Syncfusion.EmailSender.Base/4.2.52": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Syncfusion.Server.Base/4.2.51": {
+    "Syncfusion.Server.Base/4.2.52": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Syncfusion.Server.Base.ActiveDirectory/4.2.51": {
+    "Syncfusion.Server.Base.ActiveDirectory/4.2.52": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Syncfusion.Server.Base.Data/4.2.51": {
+    "Syncfusion.Server.Base.Data/4.2.52": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Syncfusion.Server.Base.DataClasses/4.2.51": {
+    "Syncfusion.Server.Base.DataClasses/4.2.52": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Syncfusion.Server.Base.Encryption/4.2.51": {
+    "Syncfusion.Server.Base.Encryption/4.2.52": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Syncfusion.Server.Base.IdPDirectory/4.2.51": {
+    "Syncfusion.Server.Base.IdPDirectory/4.2.52": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Syncfusion.Server.Base.IntranetService/4.2.51": {
+    "Syncfusion.Server.Base.IntranetService/4.2.52": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Syncfusion.Server.Base.Item/4.2.51": {
+    "Syncfusion.Server.Base.Item/4.2.52": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Syncfusion.Server.Base.Logger/4.2.51": {
+    "Syncfusion.Server.Base.Logger/4.2.52": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Syncfusion.Server.Base.MarkdownSharp/4.2.51": {
+    "Syncfusion.Server.Base.MarkdownSharp/4.2.52": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Syncfusion.Server.Base.Resources.Storage/4.2.51": {
+    "Syncfusion.Server.Base.Resources.Storage/4.2.52": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Syncfusion.Server.Base.Scheduler/4.2.51": {
+    "Syncfusion.Server.Base.Scheduler/4.2.52": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Syncfusion.Server.Base.TemplateGenerator/4.2.51": {
+    "Syncfusion.Server.Base.TemplateGenerator/4.2.52": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
