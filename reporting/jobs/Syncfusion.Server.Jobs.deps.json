@@ -578,7 +578,7 @@
       "BoldReports.Net.Core/4.2.52": {
         "dependencies": {
           "Bold.Licensing": "4.2.52",
-          "Microsoft.CodeAnalysis.VisualBasic": "3.3.0",
+          "Microsoft.CodeAnalysis.VisualBasic": "3.8.0",
           "Microsoft.Windows.Compatibility": "3.1.0",
           "Newtonsoft.Json": "12.0.3",
           "Syncfusion.Compression.Net.Core": "20.2.0.36",
@@ -1009,18 +1009,18 @@
         }
       },
       "Microsoft.CodeAnalysis.VersionCheckAnalyzer/2.9.8": {},
-      "Microsoft.CodeAnalysis.VisualBasic/3.3.0": {
+      "Microsoft.CodeAnalysis.VisualBasic/3.8.0": {
         "dependencies": {
           "Microsoft.CodeAnalysis.Common": "3.8.0"
         },
         "runtime": {
-          "lib/netstandard2.0/Microsoft.CodeAnalysis.VisualBasic.dll": {
-            "assemblyVersion": "3.3.0.0",
-            "fileVersion": "3.300.19.41501"
+          "lib/netcoreapp3.1/Microsoft.CodeAnalysis.VisualBasic.dll": {
+            "assemblyVersion": "3.8.0.0",
+            "fileVersion": "3.800.20.56202"
           }
         },
         "compile": {
-          "lib/netstandard2.0/Microsoft.CodeAnalysis.VisualBasic.dll": {}
+          "lib/netcoreapp3.1/Microsoft.CodeAnalysis.VisualBasic.dll": {}
         }
       },
       "Microsoft.CodeQuality.Analyzers/2.9.8": {},
@@ -4890,70 +4890,70 @@
     "Bold.Data.Analytics.Base/4.2.52": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-WqIdfotaGAgjTOOpDFcup08nW7ylaO+BUUsCV6hm9Y0U3LsTO1hQvCgdI5Ov8ln4rRv4KiLVgSGcdqFh6pEYkQ==",
+      "sha512": "sha512-OlgvUPUJgIMlP8NL0QYic3gAPhpVWibpHDVGq8w5ywOiqOBTAYjc81BYXXtnYkTc457xCjwAb1+1iR7PpcGLCA==",
       "path": "bold.data.analytics.base/4.2.52",
       "hashPath": "bold.data.analytics.base.4.2.52.nupkg.sha512"
     },
     "Bold.Licensing/4.2.52": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-vlgJKzywd76OQpbTGpnmO3FvR6O7ZcYzquKEGDdBZ4H/5sppUdVuQ7QiCgyxgFMxV+WB5XNpIxmHOFxufdP+dg==",
+      "sha512": "sha512-vmPJdQ3lvaJuTjIoiHBviMnETp8KbHjMf8kQpPBDftdbc+dOskOfgJAEvQO/SiRCXQoNXU73dMjTO+3c5sRINg==",
       "path": "bold.licensing/4.2.52",
       "hashPath": "bold.licensing.4.2.52.nupkg.sha512"
     },
     "BoldReports.CRI.Barcode/4.2.52": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-+N+fJWLjNVtfacB7LJt0hCxQsv55VBS/micOdTSUNyMmdsHHnSyJ17ZUFURZ6sfU5C149xhE+4NtLZTI/UXm5w==",
+      "sha512": "sha512-KOFJ0UU4N0P++O7apOCa1qXP2SSWdNfVKK7X4H7TT14bVugDY23IvbrWPfnKDIzsBk1TVD7LyQU28pMsOlQ6Fw==",
       "path": "boldreports.cri.barcode/4.2.52",
       "hashPath": "boldreports.cri.barcode.4.2.52.nupkg.sha512"
     },
     "BoldReports.CRI.PredictiveAnalytics/4.2.52": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-PyGO0vH0ucUIIsQuUHbLb1RY+I514Lts7E8x6FnnAhFmRENsOfwE+kUegb4QdZbiSuaB5cXRQqmS/HRSqorJaQ==",
+      "sha512": "sha512-VqUSVmunUlPDid2ionZQ11t/SqIWSN6WGrfrssaxFqEUTybHlNKYuBCGjNIdLsYR6sqnzE4QZA4CJVGOrlfogA==",
       "path": "boldreports.cri.predictiveanalytics/4.2.52",
       "hashPath": "boldreports.cri.predictiveanalytics.4.2.52.nupkg.sha512"
     },
     "BoldReports.Data.Csv/4.2.52": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-rH36Stgdz5F2lnw4cE4YDkXrsUo55Sv5DTcwOnlGfn2nmYAUwhkPfQ4mhITeg3BfQlRFanI2nmWk4OrQkOeB4A==",
+      "sha512": "sha512-I9Ukxxjp70gVGMCwMv0lubGqWCJ7CsQXcPVDf2lgIdp7bWDEPdBowoGIHlFQyv48NgnA//aHAzmHbc54ezfleA==",
       "path": "boldreports.data.csv/4.2.52",
       "hashPath": "boldreports.data.csv.4.2.52.nupkg.sha512"
     },
     "BoldReports.Data.ElasticSearch/4.2.52": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-QSYaE9y9+XK/jW1pvfCCp+zPxth0vouttFU3qkFarN8r/HeaB1NkCZw7QVmVVKz+Fw9B6YSehd8hQ8psvhZW8g==",
+      "sha512": "sha512-RrFdRjltIj3GeWP0htI4n/XW4Pgaiy5efsNBJHa+5gbAMREmc4fX7ix22SKXm1TS5ZyFiVZmyvXNRWScZ4h3yw==",
       "path": "boldreports.data.elasticsearch/4.2.52",
       "hashPath": "boldreports.data.elasticsearch.4.2.52.nupkg.sha512"
     },
     "BoldReports.Data.Excel/4.2.52": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ZY0v03tTMoFYnavgLCKFFceOoSuM0TTNFtT8rgHgad8Ir/VbMPF09w+2Q3nXKdTt/u0WYjuYGHWJc2hClz1dIw==",
+      "sha512": "sha512-z3O5K3sWZJEbTP+x03qGGd1Ti7ZCFcJAgqMLKBbi6F513+xfMofmbBbmiPVROW5H41GraQTN2XF0dJTSVZc38A==",
       "path": "boldreports.data.excel/4.2.52",
       "hashPath": "boldreports.data.excel.4.2.52.nupkg.sha512"
     },
     "BoldReports.Data.SSAS/4.2.52": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-hNnRgdLp6b5DpikZDnC7yxhbYTMhD9C9Ib4VcfRAu77V4PzHJojd98J62OVm4UZQJAn+8BxWgiHdZ7iGa4b8XA==",
+      "sha512": "sha512-d3w0E2WPDuIiNvTreOmUdODoxPQKQpwVDmJyiI473mM76Wh8OoGTLu6+LcopWaDRWRsi6UoFYadT9qBVUpTGFg==",
       "path": "boldreports.data.ssas/4.2.52",
       "hashPath": "boldreports.data.ssas.4.2.52.nupkg.sha512"
     },
     "BoldReports.Data.WebData/4.2.52": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-j98JBZuXKziYVEKADSHxNW2IAia9d4ONExzcU1xsUr0uXbqL7AKagQ7Xv1AR9jFEhaBTTTU/Z36d+klTrHdeNQ==",
+      "sha512": "sha512-rBK2LbdMQHy9+PYaocoKUYxNIkzAPHWIVU4ioOzjuW3Om7kz6xiwOT+GsxOCSSUHiZ+DvAJdZGoYkiFjOapXuw==",
       "path": "boldreports.data.webdata/4.2.52",
       "hashPath": "boldreports.data.webdata.4.2.52.nupkg.sha512"
     },
     "BoldReports.Net.Core/4.2.52": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-u79m+UJd9NxE5oMGANMAQME53BZ303XwnO4x+8KgKO8145mZS/ihF4iYJZbgCzOvDFSe48itjnDhXUcDnDrAVQ==",
+      "sha512": "sha512-gw8bIeyqSBLxgGkJqyqkm6hFs1TfOtZKg491dDrGmRDPlhnOTnl0l0uderCOdyY2IUBSvrhPoQviVIenbfnzgQ==",
       "path": "boldreports.net.core/4.2.52",
       "hashPath": "boldreports.net.core.4.2.52.nupkg.sha512"
     },
@@ -5258,12 +5258,12 @@
       "path": "microsoft.codeanalysis.versioncheckanalyzer/2.9.8",
       "hashPath": "microsoft.codeanalysis.versioncheckanalyzer.2.9.8.nupkg.sha512"
     },
-    "Microsoft.CodeAnalysis.VisualBasic/3.3.0": {
+    "Microsoft.CodeAnalysis.VisualBasic/3.8.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-10ErXoo9oCpaBwAANUjAy0N7ozHkreV887CgcvAW/qOMB2Vbl9eYUfQUHUzehaZe6v20CJxC6C3Yd7wePPkm9g==",
-      "path": "microsoft.codeanalysis.visualbasic/3.3.0",
-      "hashPath": "microsoft.codeanalysis.visualbasic.3.3.0.nupkg.sha512"
+      "sha512": "sha512-G3/0o6sb9ZZQjBD+6bHj7GaxyeMZbBJXNtBC6YGmbSodMup9A1QPgCSrSn/ktbxWjKI8AMlJHP6CHCwfBXTmpg==",
+      "path": "microsoft.codeanalysis.visualbasic/3.8.0",
+      "hashPath": "microsoft.codeanalysis.visualbasic.3.8.0.nupkg.sha512"
     },
     "Microsoft.CodeQuality.Analyzers/2.9.8": {
       "type": "package",
